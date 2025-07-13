@@ -2,9 +2,9 @@
 
 🎓 Final year Electrical & Electronics Engineering undergraduate  
 💡 Passionate about embedded systems, FPGA
+  You will find mostly my random hobby projects here.
 📚 Currently working on:
 - VLC-Based Communication System using FPGA
-- Fall Detection Android App with Sensor Alerts
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
