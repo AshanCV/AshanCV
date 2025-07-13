@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashan Chamalaka
+# 👋 Hi, I'm Ashan
 
 🎓 Final year Electrical & Electronics Engineering undergraduate  
 💡 Passionate about embedded systems, FPGA
@@ -13,9 +13,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
+<!--
 ## 📈 GitHub Stats
 ![Ashan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshanCV&show_icons=true&theme=radical)
+-->
 
 ## 🌐 Find me here
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashan-vithanage)
 [![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ashancvithanage@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashan-vithanage)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@Sparkithm)  
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/@AshanChamalaka)  
