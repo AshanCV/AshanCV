@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ashan
-
-🎓 Final year Electrical & Electronics Engineering undergraduate  
+ 
 💡 Passionate about Electronics and embedded systems, FPGA  
  You will find mostly my random hobby projects here.  
 📚 Currently working on:
